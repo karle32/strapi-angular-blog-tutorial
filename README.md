@@ -1,6 +1,6 @@
-# StrapiBlogTutorial
+# Strapi Blog Tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7. The project is using the latest community version of Strapi version 3.2.4 (backend project not included). The article that was used to create this project can be found on [Build a blog with Angular, Strapi and Apollo](https://strapi.io/blog/build-a-blog-with-angular-js-strapi-and-apollo). 
 
 ## Development server
 
